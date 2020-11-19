@@ -1,0 +1,36 @@
+.container{
+  width: 1170px;
+  margin:0 auto;
+}
+.debug .row{
+  height: 250px;
+}
+.debug .title{
+  height:50px;
+}
+.debug .row [class*=col-]{
+  height: 100%;
+}
+.debug .row [class*=col-]{
+  border:1px solid black;
+  text-align: center;
+}
+.row h1{
+  text-align:center;
+}
+.row h3{
+  padding-bottom:20px;
+}
+.lezioni img{
+  width:10%;
+}
+.steps img{
+  width: 10%;
+
+}
+.why img{
+  width: 10%;
+  background-color: #428bca;
+  border-radius: 50%;
+
+}
