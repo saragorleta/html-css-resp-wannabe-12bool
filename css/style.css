@@ -12,7 +12,7 @@
   height: 100%;
 }
 .debug .row [class*=col-]{
-  border:1px solid black;
+  
   text-align: center;
 }
 .row h1{
